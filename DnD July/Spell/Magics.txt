@@ -1,0 +1,121 @@
+Accuracy: Ranger,					2 lvl, 1 varlık seç 2 tur boyunca vuruşunu kaçırmasın, V,S ( Kahve Çekirdeği )
+
+Aid: Cleric,Paladin,					1 lvl, 2 varlık seç ve 8 saat boyunca +5 HP ekle, V,S,M ( Kumaş Parçası )
+
+Amuse: Bard,						3 lvl, grubundaki herkesi sihirli bir şekilde eğlendirirken HPlerinin yarısı kadar iyileştirirsin savaşta kullanamazsın, V,S,M ( Müzik Aleti )  
+
+Aura of Privilege: Cleric				4 lvl, 24 saat boyunca süren bir büyü yaparsın, süre boyunca asla saldırı almazsın tuzaklara yakalanmazsın, V,S,M ( Yakut Parçası, Mürekkep )
+
+Awaken: Bard,Druid,					3 lvl, yeterince aptal hayvan ya da bitki seç 30 gün boyunca sana hizmet edicek, V,S,M ( Agat Taşı )
+
+Bestow-Curse: Bard,Cleric,Wizard,			2 lvl, 1 varlık seç ve lanetle INT throw da başarılı olursa büyü işlemez eğer lanetliyse saldırı hasarı yarıya düşer ve 1d6 fazladan hasar alır, V,S
+
+Bless: Cleric,Paladin,					1 lvl, 2 varlık seç ve 3 tur boyunca saving throwlarına 1d4 eklesin, V,S,M ( Kutsal Su )
+
+Blind-Deaf: Bard,Cleric,Sorcerer,Wizard,		1 lvl, 1 varlık seç ve 2 etkiden birini seç CON throw da başarılı olursa kurtulur kurtulamazsa 3 tur boyunca etki altında kalır, V
+
+Cloning: Wizard,					4 lvl, 1 varlık seç ve onu klonla varlık 120 gün içinde tam olgunluğa erişir ve orjinal varlık ölürse ruhu klona geçer, V,S,M ( Elmas, Varlığım Eti, Mühürlü Kadim Sişe )
+
+Charm: Bard,Druid,Sorcerer,Warlock, 			3 lvl, 1 varlık seç ve onu 3 tur boyunca cezbet CHA throw da başarılı olursa kurtulur, V,S
+
+Death-Fog: Sorcerer,Wizard,				3 lvl, 4d çapında bir sis yarat ve içindeki her varlık CON throw atsın başarısız olurlarsa 4d8 hasar alırlar başarılı olurlarsa yarısı sis 2 tur boyunca kalır, V,S
+
+Death-Hit: Sorcerer,Warlock,Wizard,			3 lvl, d20 zar at başarılı atış için karşındaki varlığı anında öldürüsün başaramazsan sen ölürsün, V,S,M ( Mantar Solucanı )
+
+Death-Ward: Cleric,Paladin,				2 lvl, 1 varlık seç bu büyü etkisinde olan varlık 8 saat boyunca HPsi 0 a düşerse ölmez ve +1 HP alır büyü sonlanır, V,S
+
+Decoy: Sorcerer,					4 lvl, levelin/2-1 kadar kopyanı yaratırsın her turda 1 kopyan ölür sana saldıran d20 atar başaramazsa sana vuramaz, V,S,M ( Kuvars Ayna, Elmas )
+
+Defence-Breaker: Bard,Cleric,Paladin,Sorcerer,Wizard,	5 lvl, 8 saat boyunca karşına çıkan bütün düşmanlarının zırhları yok olur ve her turda 2d6 hazar alırlar, V,S,M ( Kral Suyu )
+
+Defraud: Bard,Sorcerer,					4 lvl, 1 varlık seç INT throwda başarısız olursa dolandırılmış sayılır düşmanlarının parasını çalabilirsin, V
+
+Dimension-Changer: Sorcerer,Warlock,Wizard,		2 lvl, 15d aralıkta 2 nokta belirle, giriş noktasına 1 uzaklıkta olan bütün varlıklar 2 noktadan dışarı çıkarlar ve çıkış işgal altındaysa 4d6 hasar alırlar, V  
+
+Disguise: Bard,Sorcerer,Wizard,				1 lvl, 4 saat üst limit olmak üzere istediğin kılığa gir ancak girdiğin kılıktaki varlık senden ne kadar farklıysa büyü o kadar kısa sürer, V,S,M ( Varlığa ait birşey )
+
+Dissonant-Whispers: Bard,				1 lvl, 1 varlık seç ve onun duyabileceği bir şarkı söyle INT throw da başarısız olursa 3d6 hazar alır ve 4d uzaklaşır, başarılı olursa 1d6 hazar alır ve uzaklaşmaz, V
+
+Domination: Bard,Druid,Sorcerer,Warlock,Wizard,		5 lvl, 1 varlık seç ve ona hükmet istediğini yaptır en güçlü varlıklar için 2 tur en güçsüzler için 8 saat sürer, V,S
+
+Encouragement: Bard,Cleric,Paladin,			3 lvl, 2 varlık seç ve onları cesaretlendir 3 tur boyunca +4 STR +4 CON eklensin, V
+
+Enthrall: Bard,Warlock, 				1 lvl, 4d menzilde bir nokta seç ve o noktaya 2d den yakın olan bütün varlıklar seni ve çevrendekileri fark etmez, INT throw da başarılı olursa büyü başarısız olur, V,S
+
+Feign-Death: Bard,Cleric,Druid,				2 lvl, 8 saat boyunca ölü taklidi yaparsın saldıramazsın ya da saldırı almazsın etkiden hemen kurtulmak için d20 at,  V,S,M ( Mezar Toprağı )
+
+Fart: Druid,Warlock,					1 lvl, 1 varlık seç ve osuruğunla onu uzaklaştır, S
+
+Fear: Bard,Druid,Warlock,Wizard,			2 lvl, karşındaki varlık sende en kötü rüyasını görür ve INT throw atar başarısız olursa alandan ayrılır başarılı olursa büyü sonlanır, V,S,M ( Tavşan Kalbi )
+
+Fireball: Sorcerer,Wizard,				2 lvl, 8d mesafeye kadar ateştopu at attığın noktadan 2d çapa kadar bütün varlıklar DEX throw atar başarısız olanlar 6d6 kadar hasar alır, V,S,M ( Kükürt Topu, Yarasa Dışkısı )
+
+Fog: Druid,Ranger,Sorcerer,Wizard,			1 lvl, 1 saat boyunca sürecek sis yaratırsın bu gizlenmenize yardımcı olur çevredeki varlıklar her turda WIS throw atar başarırlarsa büyü sona erer, V,S		
+
+Foresight: Bard,Druid,Warlock,Wizard,			5 lvl, 1 varlık seç ve 8 saat boyunca hiçbir tuzağa yakalanmaz hilelere kanmaz sürpriz saldırılara yakalanmaz, V,S,M ( Sinekkuşu Tüyü )
+
+Forethought: Sorcerer,Warlock,Wizard,			4 lvl, 2d20 zar at ve elinde tut 24 saat içinde atılan herhangi bir zar yerine 2 kez kullanabilirsin, V,S,M ( Kumarbaz Zarları )
+
+Heal: Cleric,Druid,					2 lvl, 1 varlık seç (levelin/2)d8 zar kadar currHP si artsın, V,S
+
+Healing Word: Bard,Cleric,Druid,			1 lvl, 1 varlık seç 1d4+WIS Mod kadar currHP si artsın, V
+
+Ignite: Sorcerer,Warlock,Wizard,			5 lvl, 1 varlık seç ve 5 tur boyunca 4d8 kadar yansın, V,S,M ( Grafit Çubuk )
+
+Intuition: Druid,Ranger,				1 lvl, leveliniz/2 sayı kadar tuzakları fark edin, V
+
+Invisible: Bard,Sorcerer,Warlock,Wizard,		1 lvl, 1 saat boyunca görünmez ol tuzaklara yakalanırsan ya da saldırı yaparsan büyü bozulur, V,S,M ( Bukalemun Dili )
+
+Levitate: Sorcerer,Wizard,				1 lvl, 1 varlık seç 3 tur boyunca havaya yükselir ve hareket edemez tuzaklara yakalanmaz, V,S,M ( Altın İğne, Tavus Tüyü )
+
+Life-Whisper: Paladin,					4 lvl, henüz ölmüş bir varlığı maxHP/2 canınızı kadar feda ederek tekrardan 1 HP ile canlandırın canınız yetersizse canınız 1 HPye düşer ve büyü başarısız olur, V 
+
+Lightning-Call: Druid,					2 lvl, 1 varlık seç DEX throwunda başarısız olursa 3d10 hasar alır büyüyü bitmeden levelin kadar kullanabilirsin, V,S
+
+Lightning-Bolt: Sorcerer,Wizard,			2 lvl, 10d mesafeye kadar büyü etki edebilir seçilen noktadan 4d çapa kadar her varlık DEX throw atar ve başarısız olanlar 8d6 hasar alır, V,S,M ( Kristal Çubuk, Kürk )
+
+Magic-Wall: Wizard,					2 lvl, 3 tur süren 6d çapta büyü duvarı oluştur dışardakiler içerdekilere saldıramaz içerideki düşmanlar 2d6 hasar alır, V,S,M ( Gümüş Tozu, Asit )
+
+Magical-Missile: Sorcerer,Wizard,			1 lvl, 3 varlık seç ve herbiri 1d4+1 hasar alsın, V,S
+
+Mass-Heal: Cleric,					5 lvl, 3 tur boyunca süren kutsal bir aura yarat ve her tur bütün grup üyelerin d20 HP kazansın, V,S
+
+Pathfinder: Druid,Ranger,				3 lvl, 24 saat boyunca sabit bir yere giden yoldan emin olursun ve gizli yolları bulabilirsin, V,S,M ( Fare Kemiği, Arı Kanadı, Karınca Tozu)
+
+Poison Ivy: Druid,Ranger,				5 lvl, 8d mesafeye kadar 4d çaptaki bütün varlıklar zehirli sarmaşıkla sarılırlar 3 tur boyunca hareket edemezler ve her tur 2d8 hasar alırlar, V,S,M ( Sarmaşık Kökü, Zehir)
+
+Relieve: Bard,Cleric,Paladin,				4 lvl, gruptaki herkesi rahatlatan bir aura yarat ve bütün lanetleri kaldır aynı zamanda d12 kadar iyileştir, V,S,M ( Işık Taşı )
+
+Remove-Curse: Cleric,Paladin,Warlock,Wizard,		2 lvl, 1 varlık seç ve üzerindeki laneti kaldır, V,S
+
+Shield: Sorcerer,Wizard,				1 lvl, 1 tur boyunca görünmez kalkanın olur ve +5 AC alırsın, V,S  
+
+Side-Changer: Bard,Wizard,				4 lvl, 1 varlık seç ve INT throw da başarısız olursa sizin yanınızda savaşmaya devam etsin, V,S
+
+Sleep: Bard,Sorcerer,Wizard,				1 lvl, 2d çaptaki bütün varlıklar 1d6 tur boyunca boyunca uyusun saldırı alırlarsa uyanırlar, V,S,M ( Cırcır Böceği ya da Müzik Aleti )
+
+Spectral-Mark: Cleric,Ranger,				3 lvl, 1 varlık seç ve onu işaretle 24 saat boyunca onu izleyebilirsin, V,S,M ( İnci )
+
+Stall: Bard,						2 lvl, 3 varlık seç ve 3 tur boyunca sadece sana saldırabilirler, V
+
+Stone-Rain: Druid,Ranger,Sorcerer,Wizard,		4 lvl, 10d mesafeye kadar olan bütün varlıkların üstüne taş yağdır DEX throwda başarısız olanlar 5d8 hasar alırlar, V,M ( Golem Nefesi, Yağmur Damlası )
+
+Stun: Bard,Sorcerer,Warlock,Wizard,			4 lvl, 1 varlık seç ve 5 tur boyunca sersemlesin bu sırada hareket edemez ve saldıramaz, V,S 
+
+Summon: Warlock,					3 lvl, 1d6 zar atarsın ve gelen zar seviyesinde seninle savaşacak bir varlık çağırırsın, V
+
+Swift-Quiver: Ranger,					2 lvl, 1 tur boyunca 3 kez Ranged Weapon kullanabilirsin, V,S
+
+Telekinesis: Sorcerer,Wizard,				3 lvl, 4d mesafeye kadar 5 tur boyunca 2d çaptaki bütün varlıkların zihnine göz atabilirsin ve sana yaptıkları saldırılarsan kaçabilirsin, V,S
+
+Teleport: Sorcerer,Wizard,				2 lvl, 16d mesafeye kadar levelin/2 kadar varlığı ışınlayabilirsin, V
+
+Thorn: Druid,Ranger,					4 lvl, 3 tur boyunca sana saldıran sana verceği zararı kendisine verir, V,S,M ( Kaktüs Meyvesi )
+
+Truth: Paladin,						3 lvl, 1 varlık seç ve onu doğruyu söylemeye zorla, V,S
+
+Vampire-Breath: Warlock,				4 lvl, en yakınındaki düşmanına 6d6 lık bir saldırı yap ve düşmanın yüzleştiği hasarın yarısı kadar iyileş, V,S
+
+Vanish: Warlock,Wizard,					3 lvl, d20 zar at başarırsan max(seviyen-1) varlığı tamamen yok et varlığın şu an ki canı kadar hasasr al, V,S  
+
+Vortex: Wizard, 					3 lvl, 10d mesafeye kadar bir nokta seç ve 6d çaptaki herkes o noktaya çekilsin, V,S
