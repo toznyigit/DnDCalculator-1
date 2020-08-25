@@ -7,3 +7,7 @@ def checkCondition(target):
             if target.condition["Heal"][0] > 0:
                 target.condition["Heal"][0]-=1
                 target.currentHealth = min(target.maxHealth,target.currentHealth+target.condition["Heal"][1])
+        if condition == "Damage":
+            if target.condition["Damage"][0] > 0:
+                target.condition["Damage"][0]-=1
+                target.currentHealth -= target.condition["Damage"][1]

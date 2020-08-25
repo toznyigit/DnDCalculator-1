@@ -72,7 +72,7 @@ Spectral-Mark: Cleric,Ranger,				3 lvl, 1 varlık seç ve onu işaretle 24 saat 
 
 Stall: Bard,						2 lvl, 3 varlık seç ve 3 tur boyunca sadece sana saldırabilirler, V
 
-Stone-Rain: Druid,Ranger,Sorcerer,Wizard,		4 lvl, 10d mesafeye kadar olan bütün varlıkların üstüne taş yağdır DEX throwda başarısız olanlar 5d8 hasar alırlar, V,M ( Golem Nefesi, Yağmur Damlası )
+St"one-Rain: Druid,Ranger,Sorcerer,Wizard,		4 lvl, 10d mesafeye kadar olan bütün varlıkların üstüne taş yağdır DEX throwda başarısız olanlar 5d8 hasar alırlar, V,M ( Golem Nefesi, Yağmur Damlası )
 
 Stun: Bard,Sorcerer,Warlock,Wizard,			4 lvl, 1 varlık seç ve 5 tur boyunca sersemlesin bu sırada hareket edemez ve saldıramaz, V,S 
 
@@ -87,9 +87,5 @@ Teleport: Sorcerer,Wizard,				2 lvl, 16d mesafeye kadar levelin/2 kadar varlığ
 Thorn: Druid,Ranger,					4 lvl, 3 tur boyunca sana saldıran sana verceği zararı kendisine verir, V,S,M ( Kaktüs Meyvesi )
 
 Truth: Paladin,						3 lvl, 1 varlık seç ve onu doğruyu söylemeye zorla, V,S
-
-Vampire-Breath: Warlock,				4 lvl, en yakınındaki düşmanına 6d6 lık bir saldırı yap ve düşmanın yüzleştiği hasarın yarısı kadar iyileş, V,S
-
-Vanish: Warlock,Wizard,					3 lvl, d20 zar at başarırsan max(seviyen-1) varlığı tamamen yok et varlığın şu an ki canı kadar hasasr al, V,S  
 
 Vortex: Wizard, 					3 lvl, 10d mesafeye kadar bir nokta seç ve 6d çaptaki herkes o noktaya çekilsin, V,S
