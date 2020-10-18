@@ -11,6 +11,7 @@ potions = {
     "LesserHealth":Potion("Lesser Health",25,(),0),
     "Health":Potion("Health",50,(),0),
     "GreaterHealth":Potion("Greater Health",100,(),0),
+    "SuperHealth":Potion("Super Health",200,(),0),
     "Invisibility":Potion("Invisibility",400,(0,0),3),
     "Resistance":Potion("Resistance",100,(),2),
     "Sense":Potion("Sense",200,(2,"WIS"),2),
