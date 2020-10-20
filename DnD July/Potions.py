@@ -16,5 +16,5 @@ potions = {
     "Resistance":Potion("Resistance",100,(),2),
     "Sense":Potion("Sense",200,(2,"WIS"),2),
     "Speed":Potion("Speed",150,(2,"DEX"),2),
-    "Dick":Potion("Dick",0,(),2)
+    "Dick":Potion("Dick",100,(20,"CHA"),20)
 }
