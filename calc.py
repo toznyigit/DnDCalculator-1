@@ -17,3 +17,4 @@ def multiPorpuseDice(faces):
 
 if __name__ == '__main__':
   print(multiPorpuseDice(add(mod(8,16),mod(17,24))))
+  print(multiPorpuseDice(add(mod(1,49),mod(50,85))))
